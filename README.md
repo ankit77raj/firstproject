@@ -63,6 +63,16 @@ https://github.com/ankit77raj/firstproject.git
 
 
 
+to check a pull request
+
+1. Checkout to a different branch - > `git checkout -b "branch_name"`
+2. make changes to that branch 
+3. git add and commit
+4. git push -u origin <branch>
+5. Go to the project link in github and create a PR
+
+
+
 
 
 
